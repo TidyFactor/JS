@@ -1,0 +1,26 @@
+{
+  "name": "@alwkala/tidyfactor-js",
+  "version": "1.0.0",
+  "description": "TidyFactor JS \u2014 Framework-Free Reactive ES Modules & Vanilla Single Page Application Engine",
+  "main": "bin/create-kit.js",
+  "bin": {
+    "tidyfactor-js": "bin/create-kit.js",
+    "add-skill": "bin/add-skill.js"
+  },
+  "scripts": {
+    "test": "node ./bin/create-kit.js --help",
+    "validate": "node tools/validate-skill.js --sync",
+    "build:skill": "node tools/build-skill.js",
+    "build:all": "npm run validate && npm run build:skill"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TidyFactor/JS.git"
+  },
+  "author": "TidyFactor & Alwkala <hello@tidyfactor.com> (https://alwkala.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/TidyFactor/JS/issues"
+  },
+  "homepage": "https://tidyfactor.com"
+}

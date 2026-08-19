@@ -22,5 +22,27 @@
   "bugs": {
     "url": "https://github.com/TidyFactor/JS/issues"
   },
-  "homepage": "https://tidyfactor.com"
+  "homepage": "https://tidyfactor.com",
+  "files": [
+    "SKILL.md",
+    "references",
+    "memory",
+    "templates",
+    "tools",
+    "bin",
+    "brand.json",
+    ".tidyfactor",
+    "AGENTS.md",
+    "SKILL-REGISTRY.md",
+    "VISION.md",
+    "README.md",
+    "README.ar.md",
+    "LICENSE",
+    "CHANGELOG.md",
+    ".agents",
+    ".claude-skill"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }

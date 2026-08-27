@@ -1,9 +1,26 @@
-# TidyFactor JS
+<div align="center">
 
-The **Vanilla JS track** of the TidyFactor skill library — a Claude skill
-for scaffolding, converting, and improving real client-side applications
-(state, client-side routing, data fetching, Web Components) with no UI
-framework — no React, Vue, Alpine, or Lit.
+# 🟨 TidyFactor JS `v1.1.0`
+### Framework-Free Reactive Vanilla SPA, Web Components & Contextual Decision Engine
+
+**The official vanilla JavaScript SPA engineering track within the TidyFactor Ecosystem.**
+
+[![npm version](https://img.shields.io/npm/v/@alwkala/tidyfactor-js.svg?style=for-the-badge&color=F7DF1E)](https://www.npmjs.com/package/@alwkala/tidyfactor-js)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)](LICENSE)
+[![RTL Ready](https://img.shields.io/badge/RTL-Native%20Arabic-emerald.svg?style=for-the-badge)](README.ar.md)
+[![Framework-Free](https://img.shields.io/badge/Runtime-Vanilla%20SPA-purple.svg?style=for-the-badge)](#-three-lifecycle-modes)
+
+[🚀 Quick Start](#-quick-start) • [⚡ 11 Commands](#-command-set) • [🏛️ Ecosystem](#%EF%B8%8F-tidyfactor-ecosystem-architecture) • [📖 بالعربية](README.ar.md)
+
+<br/><br/>
+
+<p align="center">
+  <img src="assets/hero-banner.png" alt="TidyFactor JS Hero Banner" width="100%" />
+</p>
+
+</div>
+
+---
 
 Part of the TidyFactor ecosystem. Sibling tracks (`tidyfactor-html`,
 `tidyfactor-php`, `tidyfactor-php-micro`, `tidyfactor-js-micro`,

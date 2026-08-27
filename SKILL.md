@@ -1,8 +1,7 @@
 ---
 name: tidyfactor-js
-description: "TidyFactor Vanilla JS track — Framework-Free Reactive Vanilla SPA with Contextual Decision Layer (CDL). Features client-side routing (hash/history), reactive Proxy state management, and Web Components with zero React/Vue/Alpine runtime. Trigger on commands 'brief', 'init', 'assets', 'logic', 'store', 'compo', 'route', 'pages', 'modules', 'i18n', 'seo', 'deploy', or requests like 'start a new vanilla JS app', 'scaffold an SPA with no framework', 'client-side routing', 'reactive state store'. Anti-triggers: Do NOT use for React/Next.js apps or heavy UI frameworks."
+description: "Framework-free reactive Vanilla SPA engine with Contextual Decision Layer (CDL). Features client-side routing, reactive Proxy state management, and Web Components with zero React/Vue runtime. Trigger on commands 'brief', 'init', 'assets', 'logic', 'store', 'compo', 'route', 'pages', 'modules', 'i18n', 'seo', 'deploy', or requests to scaffold a pure Vanilla JS SPA."
 ---
-
 # TidyFactor Vanilla JS (Framework-Free Reactive Vanilla SPA)
 
 A command dispatcher for framework-free client-side single page applications. This router declares commands and workflows without performing execution directly.

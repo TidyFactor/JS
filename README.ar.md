@@ -1,7 +1,21 @@
-# tidyfactor-js
+<div align="center" dir="rtl">
 
-> التوثيق العربي لـ `tidyfactor-js`
+# 🟨 مهارة تايتفكتور لتطبيقات جافاسكريبت المستقلة `TidyFactor JS v1.1.0`
+### تطبيقات الصفحة الواحدة SPA بدون أطر عمل وبنظام ES Modules النقي ومكونات الويب Web Components
 
+[![npm version](https://img.shields.io/npm/v/@alwkala/tidyfactor-js.svg?style=for-the-badge&color=F7DF1E)](https://www.npmjs.com/package/@alwkala/tidyfactor-js)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)](LICENSE)
+[![RTL Native Arabic](https://img.shields.io/badge/RTL-Native%20Arabic-emerald.svg?style=for-the-badge)](#-معمارية-منظومة-tidyfactor)
+
+[⚡ الأوامر](#-أوامر-المهارة) • [🏛️ المنظومة](#-معمارية-منظومة-tidyfactor) • [📖 English Version](README.md)
+
+<br/><br/>
+
+<p align="center">
+  <img src="assets/hero-banner.png" alt="TidyFactor JS Hero Banner" width="100%" />
+</p>
+
+</div>
 
 ---
 

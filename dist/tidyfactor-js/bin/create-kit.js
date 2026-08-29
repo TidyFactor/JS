@@ -9,7 +9,7 @@ if (args.includes('-v') || args.includes('--version')) {
 }
 
 if (args.includes('-h') || args.includes('--help')) {
-  console.log('Usage: npx @alwkala/tidyfactor-js [project-directory] [options]');
+  console.log('Usage: npx @tidyfactor/cli-js [project-directory] [options]');
   console.log('Options:');
   console.log('  -y, --yes          Non-interactive / AI Agent mode');
   console.log('  -v, --version      Show version');

@@ -1,5 +1,5 @@
 {
-  "name": "@alwkala/tidyfactor-js",
+  "name": "@tidyfactor/js",
   "version": "1.2.0",
   "description": "TidyFactor Vanilla JS track — Framework-Free Reactive Vanilla SPA with Contextual Decision Layer (CDL)",
   "main": "SKILL.md",
@@ -21,7 +21,7 @@
     "claude-code",
     "cursor"
   ],
-  "author": "TidyFactor & Alwkala <hello@tidyfactor.com> (https://alwkala.com)",
+  "author": "TidyFactor <hello@tidyfactor.com> (https://tidyfactor.com)",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",

@@ -1,6 +1,6 @@
 # Skill Registry — tidyfactor-js
 
-Identity: `tidyfactor-js` | Package: `@alwkala/tidyfactor-js` | Version: `1.0.0`
+Identity: `tidyfactor-js` | Package: `@tidyfactor/js` | Version: `1.0.0`
 
 ## Commands (11)
 ```

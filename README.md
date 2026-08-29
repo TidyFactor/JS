@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🟨 TidyFactor JS `v1.1.0`
+# 🟨 TidyFactor JS `v1.2.0`
 ### Framework-Free Reactive Vanilla SPA, Web Components & Contextual Decision Engine
 
 **The official vanilla JavaScript SPA engineering track within the TidyFactor Ecosystem.**

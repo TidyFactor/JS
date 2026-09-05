@@ -54,6 +54,34 @@ Licensed under the Apache License 2.0.
 
 ---
 
+## 🚀 Installation & Quick Start
+
+Choose your preferred installation method:
+
+### Option A: Via TidyFactor CLI (Recommended)
+Install directly using the official ecosystem package runner into your active workspace:
+```bash
+npx @tidyfactor/cli add js
+```
+*Or if you have the CLI installed globally (`npm i -g @tidyfactor/cli`):*
+```bash
+tidyfactor add js
+```
+
+### Option B: Via Open Agent Skills Ecosystem (skills.sh / Vercel Labs)
+Install using the universal multi-agent standard across all supported IDEs (Cursor, Antigravity, Claude Code, Windsurf, Trae, Codex):
+```bash
+npx skills add tidyfactor/js
+```
+
+### Option C: Standalone Zero-Dependency Runner (NPM Direct)
+Run the dedicated skill installer directly with automatic cache invalidation:
+```bash
+npx @tidyfactor/js@latest
+```
+
+---
+
 ## 🏛️ TidyFactor Ecosystem Architecture
 
 **TidyFactor** is a modular web architecture and AI coding agent skill ecosystem built on clear separation of concerns across the product lifecycle:
